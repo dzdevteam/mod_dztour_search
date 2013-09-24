@@ -53,7 +53,6 @@ JHtml::_('formbehavior.chosen', 'select');
                     <button class="btn btn-default" id="btn-clear" type="button"><?php echo JHtml::tooltipText('JSEARCH_FILTER_CLEAR'); ?></button>
                 </div>
             </div>            
-            <input type="hidden" name="Itemid" value="<?php echo $mitemid; ?>" />
         </form>
     </div>
 </div>
